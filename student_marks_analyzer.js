@@ -1,5 +1,5 @@
 //Mini Project Assignment – JS Arrays
-
+//self code
 
 let students = [
   { name: "Alice", marks: 85 },
